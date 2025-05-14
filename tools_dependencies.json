@@ -1,0 +1,16 @@
+{
+    "comment": "这个文件定义了工具间的依赖关系。每个键是一个依赖于其他工具的工具名称，值是一个数组，包含它所依赖的工具ID或名称。",
+    
+    "decode_text": [],
+    "web_search_cve": [],
+    "lookup_internal_ip": [],
+    "send_feishu_message": [],
+    "run_terminal_cmd": [],
+    "run_terminal_powershell": [],
+    
+    "analyze_cve_risk": ["web_search_cve"],
+    "validate_log_content": ["decode_text"],
+    "check_network_segment": ["lookup_internal_ip"],
+    
+    "comprehensive_security_analysis": ["web_search_cve", "lookup_internal_ip", "decode_text"]
+} 
