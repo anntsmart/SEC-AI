@@ -39,7 +39,8 @@
    
    - 示例：`127.0.0.1`
    
-     ![image-20250514110807361](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514110807361.png)
+     ![image](https://github.com/user-attachments/assets/25229224-cfbb-40d5-ad6f-972f158a89fd)
+
 
 ### 系统操作工具
 
@@ -52,7 +53,8 @@
    
    - 示例：`收集域控服务器`
    
-     ![image-20250514110308162](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514110308162.png)
+     ![image](https://github.com/user-attachments/assets/1a3c3768-ee45-4f7f-8868-5bb18ea1ea7a)
+
    
 2. **run_terminal_cmd**
    - 功能：兼容层函数，实际调用run_terminal_powershell
@@ -85,7 +87,8 @@
 
 所有增删改操作均通过对话即可进行：
 
-![image-20250514145117426](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514145117426.png)
+![image](https://github.com/user-attachments/assets/90cd3d56-a13c-47f6-bcc4-067e2fe1f3f2)
+
 
 ### 消息通知工具
 
@@ -97,7 +100,8 @@
    
    - 示例：`send_feishu_message(user_id="security_team", message="发现新的安全漏洞，详情如下...")`
    
-     ![image-20250514162552707](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514162552707.png)
+     ![image](https://github.com/user-attachments/assets/f3b925a7-b100-412d-a82d-5448a314d227)
+
 
 ### 工具集扩展
 
@@ -120,7 +124,8 @@
 
   限制AI API对于输入的访问速率限制，保证AI完整读取代码
 
-  ![image-20250514112225061](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514112225061.png)
+  ![image](https://github.com/user-attachments/assets/3be5e8b0-f69f-46a4-86d6-3b2211a8df71)
+
 
 ## 技术架构
 
@@ -169,19 +174,23 @@
 
 - 应急响应：操作系统恶意连接排查
 
-  ![image-20250514144625170](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514144625170.png)
+  ![image](https://github.com/user-attachments/assets/38eeafa7-29a1-42d2-9a39-6c7d54c60317)
+
 
 - 渗透测试：自学习，并自动化验证漏洞
 
-![image-20250514150433676](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514150433676.png)
+![image](https://github.com/user-attachments/assets/33e4a5d7-5dcd-44c4-b217-54657afadcb6)
+
 
 - 查找防病毒软件，并关闭
 
-![image-20250514151035470](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514151035470.png)
+![image](https://github.com/user-attachments/assets/0e427b71-f3ef-4391-aa2a-0849a45dbca6)
+
 
 - 域内信息收集
 
-![image-20250514151423072](C:\Users\longjw2\AppData\Roaming\Typora\typora-user-images\image-20250514151423072.png)
+![image](https://github.com/user-attachments/assets/0c324fba-e63b-45eb-b7e3-36159e3ad3ba)
+
 
 ## 后续规划
 
