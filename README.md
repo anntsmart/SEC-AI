@@ -1,6 +1,7 @@
 # 信息安全智能体 (Information Security Agent)
 
 一个集成了多种安全工具和AI助手的高级安全分析平台，帮助安全从业人员和研究人员更快速、更智能地执行安全分析任务。
+建议国内使用Qwen模型，国外则使用GPT
 ![image](https://github.com/user-attachments/assets/ad786369-e1ca-4aad-9e0c-7eef46e3c16c)
 
 
@@ -113,8 +114,7 @@
 - 飞书消息发送工具 (feishu_send_message)
 
 - 源码审计
-
-  1、分层理解策略：
+- 1、分层理解策略：
   首先了解项目结构、重要模块和关键文件
   根据需要有选择地加载最相关的代码片段
   使用之前获取的概要信息指导进一步探索
@@ -123,7 +123,6 @@
   保留关键信息的摘要，而非完整代码
   可以重新访问之前读取过的文件，如果需要重新获取细节
   3、审计速率：
-
   限制AI API对于输入的访问速率限制，保证AI完整读取代码
 
   ![image](https://github.com/user-attachments/assets/3be5e8b0-f69f-46a4-86d6-3b2211a8df71)
