@@ -1,7 +1,7 @@
 # 信息安全智能体 (Information Security Agent)
 
 一个集成了多种安全工具和AI助手的高级安全分析平台，帮助安全从业人员和研究人员更快速、更智能地执行安全分析任务。
-建议国内使用Qwen模型，国外则使用GPT
+建议国内模型使用Qwen，国外模型则使用GPT
 ![image](https://github.com/user-attachments/assets/ad786369-e1ca-4aad-9e0c-7eef46e3c16c)
 
 
